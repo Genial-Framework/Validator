@@ -17,4 +17,3 @@ We suggest you use composer as it is quicker and easier. You can direct download
 -------
 - File issues at https://github.com/Genial-Framework/Validator/issues
 - Documentation is at https://github.com/Genial-Framework/Validator/tree/master/docs
-- Changelog is at https://github.com/Genial-Framework/Validator/blob/master/change.log
