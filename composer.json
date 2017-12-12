@@ -6,7 +6,8 @@
     "license": "BSD-3-Clause",
     "require": {
         "php": "^7.0",
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "genial/di"
     },
     "autoload": {
         "psr-4": {
