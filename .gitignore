@@ -3,6 +3,7 @@ LICENSE.md
 change.log
 phpunit.xml
 .travis.yml
+.styleci.yml
 .coveralls.yml
 composer.json
 composer.lock
