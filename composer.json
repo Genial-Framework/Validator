@@ -7,7 +7,7 @@
     "require": {
         "php": "^7.0",
         "ext-mbstring": "*",
-        "genial/di"
+        "genial/di": "*"
     },
     "autoload": {
         "psr-4": {
