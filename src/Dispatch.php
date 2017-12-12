@@ -8,7 +8,7 @@
 namespace Genial\Validator;
 
 /**
- * Dispatch
+ * Dispatch.
  */
 class Dispatch extends Controller
 {
