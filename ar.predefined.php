@@ -5,4 +5,5 @@
  * @license   <https://github.com/Genial-Framework/Validator/blob/master/LICENSE> New BSD License
  */
  
+
 define('GENIAL_VALIDATOR_VERSION', '1.0.0');
