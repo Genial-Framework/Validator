@@ -5,7 +5,6 @@ php:
 os:
     - linux
     - windows
-    - osx
 matrix:
     fast_finish: true
 sudo: false
