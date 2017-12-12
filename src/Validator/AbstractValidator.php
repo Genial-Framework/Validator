@@ -7,6 +7,8 @@
 
 namespace Genial\Validator\Validator;
 
+use Traversable;
+
 /**
  * AbstractValidator
  */
