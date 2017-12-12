@@ -10,7 +10,7 @@ namespace Genial\Validator\Validator;
 /**
  * AbstractValidator
  */
-abstract class AbstractValidator
+abstract class AbstractValidator implements AbstractValidatorInterface, AbstractFileFalidatorInterface
 {
  
 }
