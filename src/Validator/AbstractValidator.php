@@ -7,12 +7,9 @@
 
 namespace Genial\Validator\Validator;
 
-use Traversable;
-
 /**
- * AbstractValidator
+ * AbstractValidator.
  */
 abstract class AbstractValidator implements AbstractValidatorInterface, AbstractFileFalidatorInterface
 {
- 
 }
