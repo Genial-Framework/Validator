@@ -8,7 +8,7 @@
 namespace Genial\Validator;
 
 /**
- * AbstractValidatorInterface
+ * AbstractValidatorInterface.
  */
 interface AbstractValidatorInterface
 {
