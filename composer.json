@@ -20,7 +20,7 @@
     },
     "scripts": {
         "test": "./vendor/bin/phpunit",
-        "genial/di"
+        "genial/di": "*"
     },
     "config": {
         "preferred-install": "dist",
