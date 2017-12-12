@@ -8,8 +8,8 @@
 namespace Genial\Validator;
 
 /**
- * AbstractFileValidatorInterface
+ * AbstractFileValidatorInterface.
  */
-interface AbstractFileValidatorInterface
+interface AbstractFileFalidatorInterface
 {
 }
