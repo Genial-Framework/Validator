@@ -1,6 +1,7 @@
 README.md
 LICENSE.md
 change.log
+phpunit.xml
 .travis.yml
 .coveralls.yml
 composer.json
