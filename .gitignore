@@ -1,5 +1,6 @@
 README.md
 LICENSE.md
+change.log
 .travis.yml
 .coveralls.yml
 composer.json
