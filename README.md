@@ -3,15 +3,13 @@
 -------
 Validator dependent from Genial Framework
 
-### Installation
--------
+## Installation
 ```
 composer require genial/validator
 ```
 
 We suggest you use composer as it is quicker and easier. You can direct download the package, but if you do that then you need to create an autoloader to load all the files.
 
-### Links
--------
+## Links
 - File issues at https://github.com/Genial-Framework/Validator/issues
 - Documentation is at https://github.com/Genial-Framework/Validator/tree/master/docs
