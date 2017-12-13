@@ -16,11 +16,11 @@
         "files": ["ar.predefined.php"]
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.5"
+        "phpunit/phpunit": "^6.5",
+        "genial/di": "*"
     },
     "scripts": {
-        "test": "./vendor/bin/phpunit",
-        "genial/di": "*"
+        "test": "./vendor/bin/phpunit"
     },
     "config": {
         "preferred-install": "dist",
