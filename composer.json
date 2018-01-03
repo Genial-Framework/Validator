@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "genial-framework/env": "1.*"
+        "genial-framework/env": "1.*",
         "ext-mbstring": "*"
     },
     "autoload": {
