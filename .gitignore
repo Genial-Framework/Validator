@@ -1,13 +1,10 @@
-README.md
-LICENSE.md
-change.log
-phpunit.xml
 .travis.yml
-.styleci.yml
-.coveralls.yml
 composer.json
 composer.lock
 composer.phar
 /vendor/
 /tests/
-/docs/
+README.md
+LICENSE.md
+.coveralls.yml
+phpunit.xml
