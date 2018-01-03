@@ -15,7 +15,7 @@ namespace Genial\Validator\Use;
 /**
  * HashEquals.
  */
-class HashEquals implements ValidatorInterface
+class HashEquals implements ValidatorInterface, HashValidatorInterface
 {
  
     /**
