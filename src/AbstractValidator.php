@@ -1,15 +1,18 @@
 <?php
-/*
- * @link      <https://github.com/Genial-Framework/Validator> for the canonical source repository
- * @copyright Copyright (c) 2017-2018 Genial Framework. <https://github.com/Genial-Framework>
- * @license   <https://github.com/Genial-Framework/Validator/blob/master/LICENSE> New BSD License
+/**
+ * LaxovePHP
+ *
+ * @author Nicholas English <https://github.com/Nenglish7>
+ * @author LaxovePHP Contributors <https://github.com/orgs/LaxovePHP/people>
+ *
+ * @copyright Copyright (c) 2018 LaxovePHP. <https://github.com/LaxovePHP>
+ * @license   <https://github.com/LaxovePHP/Validator/blob/master/LICENSE> New BSD License
  */
-
-namespace Genial\Validator\Validator;
-
+namespace LaxovePHP\Validator;
 /**
  * AbstractValidator.
  */
 abstract class AbstractValidator implements AbstractValidatorInterface, AbstractFileFalidatorInterface
 {
+
 }
