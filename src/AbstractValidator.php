@@ -14,5 +14,4 @@ namespace LaxovePHP\Validator;
  */
 abstract class AbstractValidator implements AbstractValidatorInterface, AbstractFileFalidatorInterface
 {
-
 }
