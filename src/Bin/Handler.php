@@ -16,4 +16,5 @@ namespace LaxovePHP\Validator;
  */
 class Handler extends Dispatch implements DispatchInterface
 {
+    /*...*/
 }
