@@ -21,5 +21,5 @@ class ValidatorConfig
      */
     const AVALIABLE_VALIDATORS = [
         /*...*/
-    ]
+    ];
 }
