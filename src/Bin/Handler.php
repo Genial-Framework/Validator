@@ -10,7 +10,7 @@
  * @link    <https://github.com/LaxovePHP/Validator> Github Repository.
  * @license <https://github.com/LaxovePHP/Validator/blob/master/LICENSE> New BSD License.
  */
-namespace LaxovePHP\Validator;
+namespace LaxovePHP\Validator\Bin;
 /**
  * Handler.
  */
