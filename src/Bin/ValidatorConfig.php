@@ -20,7 +20,7 @@ class ValidatorConfig
      * @const array AVALIABLE_VALIDATORS The list of avaliable validators.
      */
     const AVALIABLE_VALIDATORS = [
-        'Email',
+        'Email'
         /*...*/
     ];
 }
