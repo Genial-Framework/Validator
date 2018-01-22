@@ -14,7 +14,7 @@ namespace LaxovePHP\Validator\Bin;
 /**
  * Handler.
  */
-class Handler extends Dispatch implements DispatchInterface
+class Handler extends Dispatch implements HandlerInterface
 {
     /*...*/
 }
