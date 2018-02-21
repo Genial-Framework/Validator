@@ -1,21 +1,9 @@
 <?php
 /**
- * Genial Framework.
+ * This file is a part of Genial Validator.
  *
- * @author    Nicholas English <https://github.com/Nenglish7>
- * @author    Genial Contributors <https://github.com/orgs/Genial-Framework/people>
- *
- * @link      <https://github.com/Genial-Framework/Validator> for the canonical source repository.
- * @copyright Copyright (c) 2017-2018 Genial Framework. <https://github.com/Genial-Framework>
- * @license   <https://github.com/Genial-Framework/Validator/blob/master/LICENSE> New BSD License.
+ * @link    <https://github.com/genial-framework/Validator> Github Repository.
+ * @license <https://github.com/genial-framework/Validator/blob/master/LICENSE> New BSD License.
  */
-
-define('VALIDATOR_DEPENDENT_ACTIVE', true);
-
-if (!defined('ENV_ADAPTER_ACTIVE'))
-{
-    trigger_error(
-        '`Genial-Framework\Env` is required for `Genial-Framework\Validator` to function properly.',
-        E_USER_ERROR
-    );
-}
+define('VALIDATOR_COMPONENT_VERSION', '1.0.0');
+define('VALIDATOR_COMPONENT', true);
