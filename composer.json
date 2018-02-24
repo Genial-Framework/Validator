@@ -40,6 +40,9 @@
     "scripts": {
         "test": "./vendor/bin/phpunit"
     },
+    "suggest": {
+        "egulias/email-validator": "~2.1"
+    }
     "config": {
         "preferred-install": "dist",
         "optimize-autoloader": true,
