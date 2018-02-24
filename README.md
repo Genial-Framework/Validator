@@ -1,7 +1,7 @@
 [![Travis](https://img.shields.io/travis/Genial-Framework/Validator.svg?style=flat-square)](https://travis-ci.org/Genial-Framework/Validator) [![Coveralls github branch](https://img.shields.io/coveralls/github/Genial-Framework/Validator/master.svg?style=flat-square)](https://coveralls.io/github/Genial-Framework/Validator?branch=master)
 
 -------
-Validator dependent for Genial Framework.
+Validator component from Genial Framework.
 
 ## Installation
 
