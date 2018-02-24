@@ -41,7 +41,7 @@
         "test": "./vendor/bin/phpunit"
     },
     "suggest": {
-        "egulias/email-validator": "~2.1"
+        "egulias/email-validator": "Provides strict email validation."
     }
     "config": {
         "preferred-install": "dist",
