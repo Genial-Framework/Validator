@@ -42,7 +42,7 @@
     },
     "suggest": {
         "egulias/email-validator": "Provides strict email validation."
-    }
+    },
     "config": {
         "preferred-install": "dist",
         "optimize-autoloader": true,
