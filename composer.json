@@ -9,7 +9,7 @@
         "validator",
         "php72"
     ],
-    "description": "Validator dependent for Genial Framework.",
+    "description": "Validator component from Genial Framework.",
     "homepage": "https://github.com/Genial-Framework/Validator",
     "license": "BSD-3-Clause",
     "authors": [
