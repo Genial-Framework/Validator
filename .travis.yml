@@ -1,13 +1,14 @@
 language: php
 php:
     - 7.2.2
-#   - 7.3.0
-#   - 7.4.0
+    - nightly
 os:
     - windows
     - linux
 matrix:
     fast_finish: true
+    allow_failures:
+        - php: "nightly"
 sudo: false
 install:
     - travis_retry composer install --no-interaction
@@ -21,12 +22,6 @@ script:
     - ./vendor/bin/phpunit --coverage-clover build/logs/clover.xml
 after_success:
     - travis_retry php php-coveralls.phar -v
-branches:
-    only: master
-notifications:
-    email:
-        on_success: never
-        on_failure: never
 cache:
     directories:
         - vendor
