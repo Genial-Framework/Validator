@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/724dec8a605e441da15c3feef26eab73)](https://app.codacy.com/app/nenglish443/Validator?utm_source=github.com&utm_medium=referral&utm_content=genial-framework/Validator&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/genial-framework/Validator.svg?branch=master)](https://travis-ci.org/genial-framework/Validator) [![Coverage Status](https://coveralls.io/repos/github/Genial-Framework/Validator/badge.svg?branch=master)](https://coveralls.io/github/Genial-Framework/Validator?branch=master)
 
 -------
