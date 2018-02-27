@@ -5,6 +5,7 @@ Validator component from Genial Framework.
 
 ## Links
 - File issues at https://github.com/genial-framework/Validator/issues
+- Code of conduct is at https://github.com/genial-framework/Validator/blob/master/CODE_OF_CONDUCT.md
 - License is at https://github.com/genial-framework/Validator/blob/master/LICENSE
 - Repository activity is at https://github.com/genial-framework/Validator/graphs/traffic
 - Repository code frequency is at https://github.com/genial-framework/Validator/graphs/code-frequency
